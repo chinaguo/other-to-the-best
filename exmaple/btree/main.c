@@ -1,5 +1,7 @@
-#ifndef BTREE_H_
-#define BTREE_H_
+#include "btree.h"
+#include <stdio.h>
 
+BTree RecursiveInsert() {
 
-#endif
+  return NULL;
+}
